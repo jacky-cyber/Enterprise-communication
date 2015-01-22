@@ -1,0 +1,43 @@
+//
+//  NGLABAL_DEFINE.h
+//  GreatTit04_Application
+//
+//  Created by gabriella on 14-2-27.
+//  Copyright (c) 2014年 gabriella. All rights reserved.
+//
+
+#ifndef GreatTit04_Application_NGLABAL_DEFINE_h
+#define GreatTit04_Application_NGLABAL_DEFINE_h
+
+#define PARAMTER_KEY_NOTIFY_USER_STATUS_CHG         @"N_UserStatueChange"
+#define PARAMTER_KEY_NOTIFY_CUSTOM_REPLAY_TXTCHG    @"N_CustomReplayTextChange"
+#define PARAMTER_KEY_NOTIFY_CUSTOM_REPLAY_VALCHG    @"N_CustomReplayValueChange"
+#define PARAMTER_KEY_NOTIFY_SIGNATURE_TXTCHG        @"N_SignatureTextChange"
+#define PARAMTER_KEY_NOTIFY_RELOAD_DATA             @"N_ReloadData"
+#define PARAMTER_KEY_NOTIFY_REFRESH_DATA            @"N_RefreshData"
+
+#define PARAMTER_KEY_USER_STATUS                    @"N_USER_STATUS"
+#define PARAMTER_KEY_COMMAND_ID                     @"N_COMMAND_ID"
+
+
+#define PARAMTER_KEY_AUTO_REPLAY_STATUS             @"N_AUTO_REPLAY_STATUS"
+#define PARAMTER_KEY_AUTO_REPLAY_VALUE              @"N_AUTO_REPLAY_VALUE"
+#define PARAMTER_KEY_AUTO_REPLAY_TEXT               @"N_AUTO_REPLAY_TEXT"
+#define PARAMTER_KEY_SIGNATURE_TEXT                 @"SIGNATURE_TEXT"
+
+#define COMMAND_INITIALIZE_USER_STATUS              0x00001001
+#define COMMAND_INITIALIZE_USER_INFORMATIOIN        0x00001002
+
+#define PARAMTER_VALUE_USER_STATUS_ONLINE           0x00006001
+#define PARAMTER_VALUE_USER_STATUS_BUSY             0x00006002
+#define PARAMTER_VALUE_USER_STATUS_HIDDEN           0x00006003
+#define PARAMTER_VALUE_USER_STATUS_LEAVE            0x00006004
+#define PARAMTER_VALUE_AUTO_REPLAY_NO               0x00006005
+#define PARAMTER_VALUE_AUTO_REPLAY_OFF              0x00006006
+#define PARAMTER_VALUE_AUTO_REPLAY_VALUE_TEMP_01    0x00006007
+#define PARAMTER_VALUE_AUTO_REPLAY_VALUE_TEMP_02    0x00006008
+#define PARAMTER_VALUE_AUTO_REPLAY_VALUE_SELF       0x00006009
+
+
+
+#endif

@@ -1,0 +1,43 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#define kDeviceHeight [UIScreen mainScreen].bounds.size.height
+#define kDeviceWidth  [UIScreen mainScreen].bounds.sizw.width
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "MainStaticValue.h"
+    #import "MethodsValue.h"
+    #import "NotificationReturnDatasValue.h"
+    #import "ConstantValue.h"
+    #import "YiXinScoketHelper.h"
+    #import "Integrated+Extensions.h"
+    #import "ISTStaticDef.h"
+    #import  "BlockUI.h"
+    #import "AppDelegate.h"
+    #import "UploadXmlMaker.h"
+    #import "STHUDManager.h"
+    #import "ShowAlertView.h"
+    #import "SHXMLParser.h"
+    #import "NSString+MD5.h"
+    #import "GroupStaticValue.h"
+    #import "TimeChangeWithTimeStamp.h"
+    #import  "FrameBaseViewController.h"
+    #import  "ToolUtil.h"
+    #import "UIViewExt.h"
+    #import "JdefineFile.h"
+    #import "CarManagerStaticValue.h"
+    #import "GetContantValue.h"
+    #import "CardApplyStaticValue.h"
+    #import "humanResourceStaticValue.h"
+#endif

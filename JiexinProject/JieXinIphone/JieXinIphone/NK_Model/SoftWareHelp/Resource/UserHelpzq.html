@@ -1,0 +1,488 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone=no"/>
+<title>IOS客户端使用帮助</title>
+<style >
+html, body {
+	background-color: #f0f0f0;
+	margin: 0;
+}
+html {
+	overflow-y: auto
+}
+#Title {
+	text-align: center;
+	margin: 0;
+	height: 50px;
+	background: #2C51B6; /* Old browsers */
+	background: -moz-linear-gradient(top, #2C51B6 0%, #203C93 100%); /* FF3.6+ */
+	background: -webkit-linear-gradient(top, #2C51B6 0%, #203C93 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #2C51B6 0%, #203C93 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #2C51B6 0%, #203C93 100%); /* IE10+ */
+	background: linear-gradient(top, #2C51B6 0%, #203C93 100%); /* W3C */
+	color: #FFFFFF;
+	font-size: 18px;
+	height: 44px;
+	line-height: 44px;
+}
+#Paragraph {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#ParagraphTitle {
+	font: 9px;
+	color: #000000;
+	padding-top: px;
+	line-height: 24px;
+	text-align: left;
+	background-color: #33b5e5;
+	text-indent: 20px;
+}
+#ParagraphContent{
+	font: 9px;
+	color: #000000;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	letter-spacing: 1px;
+	text-align: justify;
+	text-indent: 2em;
+	padding: 10px;
+line-height：17pt
+}
+#ListContent {
+	font: 9px;
+	color: #0000FF;
+	padding-left: 20px;
+	padding-right: 20px;
+	letter-spacing: 2px;
+	text-align: justify;
+line-height：17pt
+}
+#Footer {
+	font: 9px;
+	color: #000000;
+	text-align: center;
+}
+a {
+	text-decoration: none
+}
+a:link {
+	color: blue
+}
+a:visited {
+	color: purple
+}
+address {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted
+}
+ol {
+	padding-left: 80px;
+}
+img.b {
+	margin: 10px 0;
+	border: 1px solid #CCC;
+	box-shadow: 3px 3px 3px #999;
+	background: #fff;
+	padding: 3px;
+	width: 95%;
+}
+ul{list-style:none; margin:0; padding:0;}
+ul.desc{color:#666;}
+img.b1 {	margin: 10px 0;
+	border: 1px solid #CCC;
+	box-shadow: 3px 3px 3px #999;
+	background: #fff;
+	padding: 3px;
+	width: 95%;
+}
+img.b2 {	margin: 10px 0;
+	border: 1px solid #CCC;
+	box-shadow: 3px 3px 3px #999;
+	background: #fff;
+	padding: 3px;
+	width: 95%;
+}
+img.b21 {margin: 10px 0;
+	border: 1px solid #CCC;
+	box-shadow: 3px 3px 3px #999;
+	background: #fff;
+	padding: 3px;
+	width: 95%;
+}
+img.b11 {margin: 10px 0;
+	border: 1px solid #CCC;
+	box-shadow: 3px 3px 3px #999;
+	background: #fff;
+	padding: 3px;
+	width: 95%;
+}
+</style>
+<script language="javascript">
+	var softName = "企信";
+//	var softDownUrl = "itms-services://?action=download-manifest&url=http://111.11.28.29/app/ios/upgrade/QiXingIphone.plist";
+    var softDownUrl="http://uczq.cmccsi.cn/";
+
+	document.title = softName+"IOS客户端使用帮助";
+</script>
+</head>
+<body width="320px">
+<div id="Paragraph"><a name="L"></a>
+  <div id="ParagraphTitle" style="padding-top: 0px;">目录</div>
+  <ul style="margin-left:20px;">
+    <li>1.<a href="#qx1"> 简介</a></li>
+    <li>2.<a href="#qx2"> 登录</a></li>
+    <li>&nbsp;&nbsp;2.1<a href="#qx2.1"> 登录设置</a></li>
+	<li>3<a href="#qx3"> 聊天</a></li>
+	<li>&nbsp;&nbsp;3.1<a href="#qx3.1"> 单人聊天</a></li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;3.1.1<a href="#qx3.1.1"> 修改内容</a></li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.1.<a href="#qx3.1.1.1"> 编写贺卡</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.2<a href="#qx3.1.1.2"> 短信</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;3.1.2<a href="#qx3.1.2"> 历史记录</a></li>
+	<li>&nbsp;&nbsp;3.2<a href="#qx3.2"> 群组聊天</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;3.2.1<a href="#qx3.2.1"> 多人会话</a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;3.2.2<a href="#qx3.2.2"> 群发短信</a></li>
+	<li>4.<a href="#qx4"> 联系人</a></li>
+    <li>&nbsp;&nbsp;4.1.<a href="#qx4.1"> 群组</a></li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;4.1.1<a href="#qx4.1.1">创建群组</a></li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;4.1.2<a href="#qx4.1.2">群组资料</a></li>
+    <li>&nbsp;&nbsp;4.2.<a href="#qx4.2"> 通讯录</a></li>
+	<li>5.<a href="#qx5"> 动态</a></li>
+    
+	<li>&nbsp;&nbsp;5.1<a href="#qx5.1"> 公告</a></li>
+    <li>&nbsp;&nbsp;5.2<a href="#5.2"> 图片墙</a></li>
+    <li>6.<a href="#qx6"> 更多</a></li>
+    <li>&nbsp;&nbsp;6.1<a href="#qx6.1"> 帐号状态</a></li>
+    <li>&nbsp;&nbsp;6.2<a href="#qx6.2"> 我的资料</a></li>
+    <li>&nbsp;&nbsp;6.3<a href="#qx6.3"> 声音与震动</a></li>
+    <li>&nbsp;&nbsp;6.4<a href="#qx6.4"> 安全与隐私</a></li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;6.4.1<a href="#qx6.4.1"> 修改登录密码</a></li>
+  </ul>
+</div>
+<div id="Paragraph" > <a href="#L" name="qx1">
+  <div id="ParagraphTitle">1.	简介  </div>
+  </a>
+  <div id="ParagraphContent">
+	<ul class="desc">
+    IOS客户端是一款面向企业的移动互联网IM软件。<br>
+        <img src="1.png"  class="b1"></br>
+      
+        <li><div>下载网址:&nbsp;<a id="a1" href="#" >#</a></div></li>
+    </ul>
+</div>
+<script language="javascript">
+	document.getElementById('a1').href = softDownUrl;
+	document.getElementById('a1').innerHTML = "下载";
+</script>
+</div>
+
+<div id="Paragraph"> <a href="#2" name="qx2" >
+   <div id="ParagraphTitle">2	登录  </div>
+ </a>
+ 
+  <div id="ParagraphContent"> 打开IOS客户端软件，当出现登录界面后，输入帐户、密码，点击“登录”按钮。<br>
+   <img src="2.png"  class="b1"><br>
+	<ul class="desc">
+        <li>1.设置登录状态</li>
+        <li>2.登录</li>
+        <li>3.下次自动登录</li>
+        <li>4.是否记住密码</li>
+        <li>5.登录设置（服务器地址以及消息提醒方式）</li>
+        
+    </ul>
+    <p>登录成功后，直接进入聊天界面，点击最下部按钮可切换“聊天”、“联系人”、“服务”、“更多”功能。</p>
+  </div>
+</div>
+
+<div id="Paragraph"><a name="qx2.1"><a> 
+  <div id="ParagraphTitle">2.1	登录设置</div>
+  </a>
+  <div id="ParagraphContent"> 点击登录设置后进入登录设置的界面<br>
+   <img src="4.png"  class="b1"><br>
+	<ul class="desc">
+        <li>1.服务器地址</li>
+        <li>2.新消息声音提醒设置</li>
+        <li>3.新消息震动提醒设置</li>
+        
+    </ul>
+  </div>
+</div>
+
+<div id="Paragraph"> 
+  <div id="ParagraphTitle"><a name="qx3"></a>3	聊天</div>
+<div id="ParagraphContent"> 会话界面显示最近联系人、最近联系群组的最后一条消息，如果有未读消息，其数目会在头像上有数字标识。会话列表下拉会刷新最新会话消息。<br>
+   <li><div><img src="5.png"  class="b1"></div></li>
+	<ul class="desc">
+        
+        <li>1.快捷操作（<a href="#chuangjianqunzu">多人会话</a>、<a href="#qunfaduanxin">群发短信</a>）</li>
+      <li>2.按住下拉刷新最新会话</li>
+        <li>3.提醒未读消息</li>
+    </ul>
+</div>
+      
+   <div id="ParagraphTitle"><a name="qx3.1"></a>3.1	单人聊天</div>
+  <div id="ParagraphContent">点击联系人条目，即弹出单人聊天界面<br>
+   <li><div><img src="6.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.输入文字，点击“发送”进行聊天</li>
+        <li>2.发送个性信息</li>
+        <li>3.插入表情符号</li>
+      <li>4.切换至信息发送</li>
+        <li>5.切换至短信发送</li>
+        <li>6.打开历史记录(删除）</li>
+    </ul>
+    
+  </div>
+  
+     <div id="ParagraphTitle"><a name="qx3.1.1"></a>3.1.1	个性内容</div>
+  <div id="ParagraphContent">点击 "+"就弹出个性内容<br>
+   <li><div><img src="7.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.发送贺卡</li>
+        <li>2.发送短信（包括生日祝福、真情告白、健康帐号士、爆笑推荐）</li>
+        <li>3.使用拍照功能并发送</li>
+        <li>4.发送本地相片</li>
+    </ul>
+    
+  </div>
+  
+     <div id="ParagraphTitle"><a name="qx3.1.1.1"></a>3.1.1.1	编写贺卡</div>
+  <div id="ParagraphContent">点击贺卡快捷图标，即弹出编写贺卡界面<br>
+   <li><div><img src="9.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.编写贺卡</li>
+        <li>2.保存</li>
+    </ul>
+  </div>
+  
+     <div id="ParagraphTitle"><a name="qx3.1.1.2"></a>3.1.1.2	短信</div>
+  <div id="ParagraphContent">点击短信快捷图标，即弹出短信界面<br>
+   <li><div><img src="8.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.发送生日祝福</li>
+        <li>2.发起真情告白</li>
+        <li>3.使用健康贴士</li>
+        <li>4.使用爆笑推荐</li>
+    </ul>
+    
+  </div>
+  
+       <div id="ParagraphTitle"><a name="qx3.1.2"></a>3.1.2	历史记录</div>
+  <div id="ParagraphContent">点击历史记录快捷图标，即弹出历史记录<br>
+   <li><div><img src="11.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.删除历史记录</li>
+      <li>2.分页查找</li>
+    </ul>
+    
+  </div>
+  
+          <div id="ParagraphTitle"><a name="qx3.2"></a>3.2 群组聊天</div>
+  <div id="ParagraphContent">点击群聊快捷图标，即弹出群组聊天（多人会话、群发短信）<br>
+   <li><div><img src="12.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.点击多人会话，即可以多人聊天</li>
+        <li>2.点击群发短信，即可以向多人发短信</li>
+    </ul>
+  </div> 
+    
+      <div id="ParagraphTitle"><a name="qx3.2.1"></a>3.2.1 多人会话</div>
+  <div id="ParagraphContent">点击多人会话后，弹出多人会话选择界面<br>
+   <li><div><img src="13.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.点击部门，可以快速选择该部门的所有成员</li>
+        <li>2.可以依次用户</li>
+        <li>3.点击确定</li>
+    </ul>
+  </div> 
+    
+      <div id="ParagraphTitle"><a name="qx3.2.2"></a>3.2.2 群发短信</div>
+  <div id="ParagraphContent">点击群发短信，即可以进入选择接收者界面<br>
+   <li><div><img src="21.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.增加用户</li>
+        <li>2.编写正文</li>
+        <li>3.点击发送</li>
+    </ul>
+  </div> 
+   
+     <div id="ParagraphTitle"><a name="qx4"></a>4 联系人</div>
+  <div id="ParagraphContent">点击联系人条目，即弹出联系人界面（包括部门、群组、通讯录）<br>
+   <li><div><img src="16.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.显示公司部门情况</li>
+        <li>2.打开各部门，查看部门的成员</li>
+        <li>3.选择群组，进行群组聊天</li>
+        <li>4.打开通讯录，查看用户联系方式</li>
+        <li>5.快速查看用户</li>
+    </ul>
+  </div> 
+  
+    <div id="ParagraphTitle"><a name="qx4.1"></a>4.1 群组</div>
+  <div id="ParagraphContent">点击群组，即弹出群组界面<br>
+   <li><div><img src="19.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.进入群组聊天</li>
+        <li>2.创建群组（群组、讨论组）</li>
+      <li>3.删除群组</li>
+        
+    </ul>
+  </div> 
+  
+    <div id="ParagraphTitle"><a name="qx4.1.1"></a>4.1.1 创建群组</div>
+  <div id="ParagraphContent">点击创建群组，即弹出选择创建群组用户成员界面<br>
+   <li><div><img src="20.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.通过部门快速选择所有成员</li>
+        <li>2.自由选择用户</li>
+        <li>3.输入群组名称</li>
+    </ul>
+  </div> 
+  
+      <div id="ParagraphTitle"><a name="qx4.1.2"></a>4.1.2 群组资料</div>
+  <div id="ParagraphContent">点击群组成员，即弹出群组资料<br>
+   <li><div><img src="22.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.查看群组的成员</li>
+        <li>2.查看历史记录</li>
+        <li>3.清空聊天记录</li>
+        <li>4.修改群组名称</li>
+        <li>5.解散群组</li>
+    </ul>
+  </div> 
+    <div id="ParagraphTitle"><a name="qx4.2"></a>4.2 通讯录</div>
+  <div id="ParagraphContent">点击通讯录条目，即弹出通讯录<br>
+   <li><div><img src="18.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.通过字母快速检索用户</li>
+        <li>2.发送信息</li>
+        <li>3.拨打电话</li>
+    </ul>
+  </div> 
+  
+      <div id="ParagraphTitle"><a name="qx5"></a>5 动态</div>
+  <div id="ParagraphContent">点击动态快捷条目，即弹出动态界面<br>
+   <li><div><img src="24.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.查看公告</li>
+      <li>2.使用照片墙</li>
+
+    </ul>
+  </div> 
+  
+        <div id="ParagraphTitle"><a name="qx5.1"></a>5.1 公告</div>
+  <div id="ParagraphContent">点击公告图标，即进入公告界面<br>
+   <li><div><img src="25.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+      <li>1.点击公告查看详细公告内容</li>
+        
+    </ul>
+  </div> 
+  
+        <div id="ParagraphTitle"><a name="qx5.2"></a>5.2 图片墙</div>
+  <div id="ParagraphContent">点击图片墙图标，即进入图片墙界面<br>
+   <li><div><img src="27.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+      <li>1.点击图片即可以放大浏览图片</li>
+       
+    </ul>
+  </div> 
+  
+        <div id="ParagraphTitle"><a name="qx6"></a>6 更多</div>
+  <div id="ParagraphContent">点击更多条目，即弹出更多的内容界面<br>
+   <li><div><img src="29.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.点击进入可以选择用户状态</li>
+        <li>2.查看用户自己详细信息</li>
+        <li>3.查看自己名片</li>
+        <li>4.设置通知与消息</li>
+        <li>5.设置声音与震动</li>
+        <li>6.设置安全与隐私</li>
+        <li>7.查看关于信息</li>
+        <li>8.反馈意见</li>
+        <li>9.版本更新检查</li>
+        <li>10.使用帮助</li>
+        <li>11.注销用户</li>
+    </ul>
+  </div> 
+          <div id="ParagraphTitle"><a name="qx6.1"></a>6.1 帐号状态</div>
+  <div id="ParagraphContent">点击用户头像即进入用户状态设置<br>
+   <li><div><img src="31.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+      <li>1.设置成在线状态</li>
+         <li>2.设置成忙碌状态</li>
+          <li>3.设置成隐身状态</li>
+           <li>4.设置成离开状态</li>
+    </ul>
+  </div> 
+  
+          <div id="ParagraphTitle"><a name="qx6.2"></a>6.2 我的资料</div>
+  <div id="ParagraphContent">点击我的资料，即进入用户信息界面<br>
+   <li><div><img src="32.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.设置个性签名</li>
+      <li>2.设置性别</li>
+        
+    </ul>
+  </div> 
+  
+          <div id="ParagraphTitle"><a name="qx6.3"></a>6.3 声音与震动</div>
+  <div id="ParagraphContent">点击声音与震动，即进入声音与震动界面<br>
+   <li><div><img src="34.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.声音提醒（办公、经典、系统铃声)</li>
+      <li>2.振动提醒</li>
+    </ul>
+  </div> 
+           <div id="ParagraphTitle"><a name="qx6.4"></a>6.4 安全与隐私</div>
+  <div id="ParagraphContent">点击安全与隐私，即进入安全与隐私界面<br>
+   <li><div><img src="35.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.清除图片缓存</li>
+      <li>2.清除文件缓存</li>
+      <li>3.清空会话列表</li>
+      <li>4.清空所有消息 </li>
+      <li>5.修改密码</li>
+    </ul>
+  </div> 
+   <div id="ParagraphTitle"><a name="qx6.4.1"></a>6.4 安全与隐私</div>
+  <div id="ParagraphContent">点击安全与隐私，即进入安全与隐私界面<br>
+   <li><div><img src="36.png"  class="b1"></div></li>
+    <br>
+	<ul class="desc">
+        <li>1.输入旧密码</li>
+      <li>2.输入新密码</li>
+      <li>3.再次输入密码</li>
+      <li>4.提交 </li>
+      
+    </ul>
+  </div> 
+</body>
+</html>

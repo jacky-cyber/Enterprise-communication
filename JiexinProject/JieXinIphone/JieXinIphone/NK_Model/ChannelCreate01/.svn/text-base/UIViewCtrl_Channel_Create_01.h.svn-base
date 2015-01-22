@@ -1,0 +1,27 @@
+//
+//  UIViewCtrl_Channel_Create_01.h
+//  JieXinIphone
+//
+//  Created by gabriella on 14-4-8.
+//  Copyright (c) 2014年 sunboxsoft. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface UIViewCtrl_Channel_Create_01 : UIViewController
+
+
+- (IBAction)onBtnReturn_Click:(id)sender;
+- (IBAction)onBtnFun01_Click:(id)sender;
+- (IBAction)onBtnFun02_Click:(id)sender;
+- (IBAction)onBtnFun03_Click:(id)sender;
+- (IBAction)onBtnFun04_Click:(id)sender;
+- (IBAction)onBtnFun05_Click:(id)sender;
+- (IBAction)onBtnFun06_Click:(id)sender;
+- (IBAction)onBtnFun07_Click:(id)sender;
+- (IBAction)Close_KeyBroad:(id)sender;
+- (void) ON_NOTIFICATION:(NSNotification *) wParam;
+- (void) THREAD_PROC_01:(id)wParam;
+
+@property (nonatomic,strong) id delegate;
+@end

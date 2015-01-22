@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/JiexinProject/!svn/ver/1291/JieXinIphone/JieXinIphone/Chat/Model
+END
+ChatConversationListFeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/JiexinProject/!svn/ver/856/JieXinIphone/JieXinIphone/Chat/Model/ChatConversationListFeed.h
+END
+LongMsgFeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/JiexinProject/!svn/ver/604/JieXinIphone/JieXinIphone/Chat/Model/LongMsgFeed.h
+END
+ChatMessagesFeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/1253/JieXinIphone/JieXinIphone/Chat/Model/ChatMessagesFeed.h
+END
+LastChatMessageFeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/651/JieXinIphone/JieXinIphone/Chat/Model/LastChatMessageFeed.h
+END
+ChatConversationListFeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/JiexinProject/!svn/ver/856/JieXinIphone/JieXinIphone/Chat/Model/ChatConversationListFeed.m
+END
+LongMsgFeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/JiexinProject/!svn/ver/714/JieXinIphone/JieXinIphone/Chat/Model/LongMsgFeed.m
+END
+ChatMessagesFeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/1253/JieXinIphone/JieXinIphone/Chat/Model/ChatMessagesFeed.m
+END
+LongMsgDataHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/774/JieXinIphone/JieXinIphone/Chat/Model/LongMsgDataHelper.h
+END
+LastChatMessageFeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/714/JieXinIphone/JieXinIphone/Chat/Model/LastChatMessageFeed.m
+END
+LastChatMessageDataHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/JiexinProject/!svn/ver/651/JieXinIphone/JieXinIphone/Chat/Model/LastChatMessageDataHelper.h
+END
+LongMsgDataHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/774/JieXinIphone/JieXinIphone/Chat/Model/LongMsgDataHelper.m
+END
+LastChatMessageDataHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/JiexinProject/!svn/ver/651/JieXinIphone/JieXinIphone/Chat/Model/LastChatMessageDataHelper.m
+END
+ChatDataHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/1291/JieXinIphone/JieXinIphone/Chat/Model/ChatDataHelper.h
+END
+ImageDataHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/1253/JieXinIphone/JieXinIphone/Chat/Model/ImageDataHelper.h
+END
+ChatDataHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/1291/JieXinIphone/JieXinIphone/Chat/Model/ChatDataHelper.m
+END
+ImageDataHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/1253/JieXinIphone/JieXinIphone/Chat/Model/ImageDataHelper.m
+END

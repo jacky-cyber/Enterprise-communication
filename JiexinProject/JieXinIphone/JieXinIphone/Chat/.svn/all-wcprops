@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/JiexinProject/!svn/ver/1315/JieXinIphone/JieXinIphone/Chat
+END
+SendOtherViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/908/JieXinIphone/JieXinIphone/Chat/SendOtherViewController.h
+END
+ChatHeadImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/JiexinProject/!svn/ver/842/JieXinIphone/JieXinIphone/Chat/ChatHeadImport.h
+END
+SendOtherTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/908/JieXinIphone/JieXinIphone/Chat/SendOtherTableViewCell.h
+END
+SendOtherViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/JiexinProject/!svn/ver/1038/JieXinIphone/JieXinIphone/Chat/SendOtherViewController.m
+END
+ChatHistoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/539/JieXinIphone/JieXinIphone/Chat/ChatHistoryViewController.h
+END
+ChatHistoryCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/JiexinProject/!svn/ver/356/JieXinIphone/JieXinIphone/Chat/ChatHistoryCell.h
+END
+SendOtherTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/908/JieXinIphone/JieXinIphone/Chat/SendOtherTableViewCell.m
+END
+ChatHistoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/JiexinProject/!svn/ver/1253/JieXinIphone/JieXinIphone/Chat/ChatHistoryViewController.m
+END
+ChatHistoryCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/JiexinProject/!svn/ver/1308/JieXinIphone/JieXinIphone/Chat/ChatHistoryCell.m
+END
+RotatePhotoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/JiexinProject/!svn/ver/1261/JieXinIphone/JieXinIphone/Chat/RotatePhotoViewController.h
+END
+ChatConversationLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/856/JieXinIphone/JieXinIphone/Chat/ChatConversationLabel.h
+END
+HeKaBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/JiexinProject/!svn/ver/466/JieXinIphone/JieXinIphone/Chat/HeKaBtn.h
+END
+RotatePhotoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/JiexinProject/!svn/ver/1261/JieXinIphone/JieXinIphone/Chat/RotatePhotoViewController.m
+END
+ChatConversationLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/856/JieXinIphone/JieXinIphone/Chat/ChatConversationLabel.m
+END
+HeKaBtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/JiexinProject/!svn/ver/466/JieXinIphone/JieXinIphone/Chat/HeKaBtn.m
+END
+MsgSendBtnsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/JiexinProject/!svn/ver/1278/JieXinIphone/JieXinIphone/Chat/MsgSendBtnsView.h
+END
+ScanImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/JiexinProject/!svn/ver/1277/JieXinIphone/JieXinIphone/Chat/ScanImageView.h
+END
+ChatScanImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/JiexinProject/!svn/ver/1254/JieXinIphone/JieXinIphone/Chat/ChatScanImageView.h
+END
+ScanImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/JiexinProject/!svn/ver/806/JieXinIphone/JieXinIphone/Chat/ScanImageView.m
+END
+MsgSendBtnsView.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/JiexinProject/!svn/ver/1283/JieXinIphone/JieXinIphone/Chat/MsgSendBtnsView.m
+END
+ChatScanImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/JiexinProject/!svn/ver/1277/JieXinIphone/JieXinIphone/Chat/ChatScanImageView.m
+END
+ISTChatImageDowmLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/1277/JieXinIphone/JieXinIphone/Chat/ISTChatImageDowmLoad.h
+END
+SelectSendOtherViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/JiexinProject/!svn/ver/908/JieXinIphone/JieXinIphone/Chat/SelectSendOtherViewController.h
+END
+ISTChatImageDowmLoad.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/1277/JieXinIphone/JieXinIphone/Chat/ISTChatImageDowmLoad.m
+END
+NotOnlineRemindView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/JiexinProject/!svn/ver/842/JieXinIphone/JieXinIphone/Chat/NotOnlineRemindView.h
+END
+SelectSendOtherViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/JiexinProject/!svn/ver/1038/JieXinIphone/JieXinIphone/Chat/SelectSendOtherViewController.m
+END
+ChatDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/JiexinProject/!svn/ver/624/JieXinIphone/JieXinIphone/Chat/ChatDetailViewController.h
+END
+NotOnlineRemindView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/JiexinProject/!svn/ver/1031/JieXinIphone/JieXinIphone/Chat/NotOnlineRemindView.m
+END
+ChatDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/1315/JieXinIphone/JieXinIphone/Chat/ChatDetailViewController.m
+END
+HeKaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/JiexinProject/!svn/ver/465/JieXinIphone/JieXinIphone/Chat/HeKaViewController.h
+END
+ChatConversationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/JiexinProject/!svn/ver/85/JieXinIphone/JieXinIphone/Chat/ChatConversationCell.h
+END
+HeKaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/JiexinProject/!svn/ver/1209/JieXinIphone/JieXinIphone/Chat/HeKaViewController.m
+END
+GroupSendMsgViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/JiexinProject/!svn/ver/936/JieXinIphone/JieXinIphone/Chat/GroupSendMsgViewController.h
+END
+EditHeKaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/466/JieXinIphone/JieXinIphone/Chat/EditHeKaViewController.h
+END
+ChatViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/JiexinProject/!svn/ver/485/JieXinIphone/JieXinIphone/Chat/ChatViewController.h
+END
+EditContentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/466/JieXinIphone/JieXinIphone/Chat/EditContentViewController.h
+END
+ChatConversationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/JiexinProject/!svn/ver/856/JieXinIphone/JieXinIphone/Chat/ChatConversationCell.m
+END
+GroupSendMsgViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/JiexinProject/!svn/ver/1098/JieXinIphone/JieXinIphone/Chat/GroupSendMsgViewController.m
+END
+ImagesCharacterArrange.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/185/JieXinIphone/JieXinIphone/Chat/ImagesCharacterArrange.h
+END
+EditHeKaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/1209/JieXinIphone/JieXinIphone/Chat/EditHeKaViewController.m
+END
+ChatViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/JiexinProject/!svn/ver/1221/JieXinIphone/JieXinIphone/Chat/ChatViewController.m
+END
+EditContentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/JiexinProject/!svn/ver/1209/JieXinIphone/JieXinIphone/Chat/EditContentViewController.m
+END
+ImagesCharacterArrange.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/185/JieXinIphone/JieXinIphone/Chat/ImagesCharacterArrange.m
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/JiexinProject/!svn/ver/1078/JieXinIphone/JieXinIphone/NK_Model/libqrencode
+END
+QRCodeGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/JiexinProject/!svn/ver/1078/JieXinIphone/JieXinIphone/NK_Model/libqrencode/QRCodeGenerator.m
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/bitstream.h
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/split.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/qrencode.c
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/mask.h
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/qrspec.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/qrinput.c
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/qrinput.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/rscode.c
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/rscode.h
+END
+QRCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/JiexinProject/!svn/ver/1078/JieXinIphone/JieXinIphone/NK_Model/libqrencode/QRCodeGenerator.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/bitstream.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/split.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/mask.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/JiexinProject/!svn/ver/212/JieXinIphone/JieXinIphone/NK_Model/libqrencode/qrspec.c
+END

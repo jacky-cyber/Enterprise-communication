@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/JiexinProject/!svn/ver/1308/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController
+END
+BubbleView.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JiexinProject/!svn/ver/1291/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/BubbleView.m
+END
+MessageInputView.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JiexinProject/!svn/ver/1278/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MessageInputView.h
+END
+BubbleMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JiexinProject/!svn/ver/714/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/BubbleMessageCell.h
+END
+AddContentToDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JiexinProject/!svn/ver/273/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/AddContentToDetailView.h
+END
+MessageInputView.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JiexinProject/!svn/ver/1278/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MessageInputView.m
+END
+NSString+MessagesView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/JiexinProject/!svn/ver/52/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/NSString+MessagesView.h
+END
+BubbleMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JiexinProject/!svn/ver/841/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/BubbleMessageCell.m
+END
+EmotionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JiexinProject/!svn/ver/110/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/EmotionView.h
+END
+MessagesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JiexinProject/!svn/ver/1308/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MessagesViewController.h
+END
+MsgCategoryDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/JiexinProject/!svn/ver/398/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MsgCategoryDetailViewController.h
+END
+AddContentToDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JiexinProject/!svn/ver/465/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/AddContentToDetailView.m
+END
+NSString+MessagesView.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/JiexinProject/!svn/ver/52/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/NSString+MessagesView.m
+END
+EmotionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/JiexinProject/!svn/ver/1177/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/EmotionView.m
+END
+MessageSoundEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JiexinProject/!svn/ver/52/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MessageSoundEffect.h
+END
+MessagesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JiexinProject/!svn/ver/1021/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MessagesViewController.m
+END
+MsgCategoryDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/JiexinProject/!svn/ver/500/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MsgCategoryDetailViewController.m
+END
+UIView+AnimationOptionsForCurve.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/JiexinProject/!svn/ver/52/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/UIView+AnimationOptionsForCurve.h
+END
+MsgCategoryVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/JiexinProject/!svn/ver/398/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MsgCategoryVC.h
+END
+MessageSoundEffect.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JiexinProject/!svn/ver/52/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MessageSoundEffect.m
+END
+UIView+AnimationOptionsForCurve.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/JiexinProject/!svn/ver/52/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/UIView+AnimationOptionsForCurve.m
+END
+SelectCategoryBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/JiexinProject/!svn/ver/1151/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/SelectCategoryBtn.h
+END
+MsgCategoryVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/JiexinProject/!svn/ver/1209/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/MsgCategoryVC.m
+END
+BubbleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JiexinProject/!svn/ver/1291/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/BubbleView.h
+END
+SelectCategoryBtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/JiexinProject/!svn/ver/1151/JieXinIphone/JieXinIphone/HXCommon/MessagesTableViewController/SelectCategoryBtn.m
+END

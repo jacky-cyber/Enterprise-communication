@@ -1,0 +1,13 @@
+//
+//  daishenModel.m
+//  JieXinIphone
+//
+//  Created by apple on 14-4-17.
+//  Copyright (c) 2014年 sunboxsoft. All rights reserved.
+//
+
+#import "daishenModel.h"
+
+@implementation daishenModel
+
+@end
